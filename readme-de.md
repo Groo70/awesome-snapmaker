@@ -33,7 +33,7 @@ High performance - 3D printer / Laser / CNC - with a large build volume.
 
 # SUPPORT
 
-| Wenn Probleme technische Probleme auftreten, schreibt hier an den Snapmaker Support .|
+| Wenn technische Probleme auftreten, schreibt hier an den Snapmaker Support .|
 :---:
 | [SUBMIT TICKET](https://snapmaker.formcrafts.com/support-ticket)  |
 
@@ -55,35 +55,35 @@ Drücke CTRL+F auf der Tastatur für die Suche und gebe ein Suchwort ein, nach d
 
 # Inhalte
 
-- 📚 [Official Docs & Firmware & Software](#official-docs--firmware--software)
+- 📚 [Offizielle Dokumente & Firmware & Software](#official-docs--firmware--software)
   - [Snapmaker 2.0](#snapmaker-20)
   - [Snapmaker Artisan](#snapmaker-artisan)
   - [Snapmaker J1](#snapmaker-j1)
   - [Luban Software](#snapmaker-luban)
-- 👋 [Official Communities](#official-communities)
-- 📝 [Community Guides](#community-guides)
-  - [How to set stuff up](#how-to-set-stuff-up)
-  - [How to make stuff](#how-to-make-stuff)
-    - [Online stuff generators](#online-stuff-generators)
-  - [How to fix stuff](#how-to-fix-stuff)
-  - [How to modify stuff](#how-to-modify-stuff)
-  - [Settings Collection](#settings-collection)
+- 👋 [Offizielle Benutzer Communities](#official-communities)
+- 📝 [Benutzer Anleitungen](#community-guides)
+  - [Einrichten der Maschine](#how-to-set-stuff-up)
+  - [Wie man Dinge herstellt](#how-to-make-stuff)
+    - [Online Generatoren für Dinge](#online-stuff-generators)
+  - [Wie man Probleme beseitigt!](#how-to-fix-stuff)
+  - [Modifikationen an den Maschinen](#how-to-modify-stuff)
+  - [Einstellungen (Sammlung)](#settings-collection)
     - [Laser](#laser-settings)
-    - [3D Printing](#3d-printing-settings)
-    - [CNC Settings](#cnc-settings)
-- 🔧 [Tools](#tools) - software tools created by community members.
-  - [Specific to Snapmaker machines](#specific-to-snapmaker-machines)
-  - [Generic Tools](#generic-tools)
-- 💾 [Handy Files & Models](#handy-files--models) - files hosted in this repo.
-  - [Released By Community members - UNOFFICIAL](#released-by-community-members---unofficial)
-  - [Released by Snapmaker Team - OFFICIAL](#released-by-snapmaker-team---official)
-- 🛒 [Shopping list](#shopping-list)
-  - 🛒 [Aftermarket Parts](#aftermarket-parts) -  Parts that were recommended by community members as spare/mods.
-  - 🛒 [Tooling](#tooling)
-  - 🛒 [Raw Material](#materials)
-- 💡 [Contributing to this list](#contributing)
+    - [3D Druck](#3d-printing-settings)
+    - [CNC Eunstellungen](#cnc-settings)
+- 🔧 [Hilfsmittel](#tools) - Softwarehilfen erstellt von Benutzen.
+  - [Speziell Hilfsmittel für Snapmaker Geräte](#specific-to-snapmaker-machines)
+  - [Allgemeine Hilfsmittel](#generic-tools)
+- 💾 [Nützliche Files & Modelle](#handy-files--models) 
+  - [Veröffentlicht von Nutzern - INOFFIZIELL](#released-by-community-members---unofficial)
+  - [Veröffentlicht vom Snapmaker Team - OFFIZIELL](#released-by-snapmaker-team---official)
+- 🛒 [Einkaufsliste](#shopping-list)
+  - 🛒 [Ersatz- und Zusatzteile ](#aftermarket-parts) -  Teile empfohlen von Benutzern.
+  - 🛒 [Werkzeuge](#tooling)
+  - 🛒 [Rohmaterialien](#materials)
+- 💡 [Mitarbeit an dieser Liste!](#contributing)
 
-Legend: 📝 blog posts · 📚 docs · 🔧 tools · 📹 talks/video · 💾 files · 🛒 shopping items · 💻 coding
+Legende: 📝 Blogeintrag  · 📚 Dokumente · 🔧 Hilfsmittel · 📹 Videos · 💾 Dateien · 🛒 Einkaufsartikel · 💻 Programierung
 <!-- CONTENT -->
 
 # Official Docs & Firmware & Software
